@@ -1,0 +1,66 @@
+body{
+    text-align: center;
+    background: linear-gradient( #E1BEE7 0%,#90CAF9 100%);
+}
+
+
+img{
+    border-radius: 25%;
+    width:50px;
+}
+
+#myname{
+ 
+    font-family: 'Courgette' , cursive;
+}
+
+#welcome{
+    padding: 70px;
+    text-align:center;
+}
+
+h1{
+    font-size: 18px;
+}
+
+p{
+    font-size: 19px
+        color:#6A1B9A
+}
+
+h2{
+    font-size: 20px;
+    color:#1A237E;
+}
+
+.line{
+    
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin:8px auto;
+}
+
+#bio{
+    padding:20px;
+    font-size:42;
+    background: pink;
+}
+
+.menu a{
+    color: black !important;
+}
+
+.link{
+    color: crimson;
+    display: inline;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+}
+
+.link:hover
+{
+    background-color:beige;
+}
